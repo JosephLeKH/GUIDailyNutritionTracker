@@ -1,0 +1,5 @@
+flask_sqlalchemy==3.0.5
+SQLAlchemy==2.0.19
+Flask==2.3.2
+requests~=2.31.0
+PySimpleGUI~=4.60.5
